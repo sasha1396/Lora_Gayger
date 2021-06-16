@@ -1,0 +1,17 @@
+DRC Rules Export File for PCB: E:\My Projects\AD\ATSAMR34 v1.1\Lora_Geiger_PCB.PcbDoc
+RuleKind=Width|RuleName=Schematic Width Constraint|Scope=Board|Minimum=10.00
+RuleKind=Width|RuleName=Width_Small_IC|Scope=Board|Minimum=7.00
+RuleKind=Width|RuleName=Width_BGA_PWR|Scope=Board|Minimum=3.94
+RuleKind=Clearance|RuleName=Clearance_BGA|Scope=Board|Minimum=3.94
+RuleKind=Width|RuleName=Width_BGA|Scope=Board|Minimum=3.94
+RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRingPad|Scope=Board|Minimum=7.87
+RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRingVia|Scope=Board|Minimum=3.94
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansionPad|Scope=Board|Minimum=1.97
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansionVia|Scope=Board|Minimum=-196.85
+RuleKind=Width|RuleName=TechWidth|Scope=Board|Minimum=3.94
+RuleKind=Width|RuleName=PowerWidth|Scope=Board|Minimum=7.00
+RuleKind=Clearance|RuleName=TechClearance|Scope=Board|Minimum=5.91
+RuleKind=Clearance|RuleName=PolyClearance|Scope=Board|Minimum=7.87
+RuleKind=Clearance|RuleName=UnplatedClearance|Scope=Board|Minimum=9.84
+RuleKind=Clearance|RuleName=MountingHoleClearance|Scope=Board|Minimum=98.43

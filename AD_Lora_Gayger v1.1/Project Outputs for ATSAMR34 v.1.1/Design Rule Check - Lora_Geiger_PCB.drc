@@ -1,0 +1,114 @@
+Protel Design System Design Rule Check
+PCB File : D:\Projects\Lora_Gayger\AD_Lora_Gayger v1.1\Lora_Geiger_PCB.PcbDoc
+Date     : 16.06.2021
+Time     : 22:28:08
+
+Processing Rule : Clearance Constraint (Gap=3.937mil) (WithinRoom('BGA')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=9.842mil) (All),(IsPad and (not PadIsPlated) and OnMultiLayer)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=7.874mil) (All),(InPoly)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=5.906mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=98.425mil) (IsPad and OnMultiLayer and (Not PadIsPlated) and (not InAnyComponent)),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=7mil) (Max=400mil) (Preferred=20mil) (InNetClass('POWER'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=3.937mil) (Max=393.701mil) (Preferred=10mil) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=7mil) (Max=10mil) (Preferred=10mil) (InComponent('IC4'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=10mil) (Max=20mil) (Preferred=15mil) (InComponent('U1'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=3.937mil) (Max=19.685mil) (Preferred=7.874mil) (TouchesRoom('BGA'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=3.937mil) (Max=7.874mil) (Preferred=3.937mil) (TouchesRoom('BGA'))
+Rule Violations :0
+
+Processing Rule : Routing Layers(All)
+Rule Violations :0
+
+Processing Rule : Routing Via (MinHoleWidth=19.685mil) (MaxHoleWidth=19.685mil) (PreferredHoleWidth=19.685mil) (MinWidth=39.37mil) (MaxWidth=39.37mil) (PreferedWidth=39.37mil) (InNetClass('POWER'))
+Rule Violations :0
+
+Processing Rule : Routing Via (MinHoleWidth=7.874mil) (MaxHoleWidth=7.874mil) (PreferredHoleWidth=7.874mil) (MinWidth=15.748mil) (MaxWidth=15.748mil) (PreferedWidth=15.748mil) (WithinRoom('BGA'))
+Rule Violations :0
+
+Processing Rule : Routing Via (MinHoleWidth=11.811mil) (MaxHoleWidth=11.811mil) (PreferredHoleWidth=11.811mil) (MinWidth=31.496mil) (MaxWidth=31.496mil) (PreferedWidth=31.496mil) (All)
+Rule Violations :0
+
+Processing Rule : Differential Pairs Uncoupled Length using the Gap Constraints (Min=10mil) (Max=15mil) (Prefered=15mil)  and Width Constraints (Min=10mil) (Max=15mil) (Prefered=15mil) (InDifferentialPair('USB'))
+Rule Violations :0
+
+Processing Rule : SMD To Corner (Distance=5.906mil) (All)
+Rule Violations :0
+
+Processing Rule : SMD Neck-Down Constraint (Percent=100%) (All)
+Rule Violations :0
+
+Processing Rule : SMD Entry (Side = Allowed) (Corner = Not Allowed) (Any Angle = Not Allowed) (Ignore First Corner = Allowed)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Minimum Annular Ring (Minimum=3.937mil) (IsVia)
+Rule Violations :0
+
+Processing Rule : Minimum Annular Ring (Minimum=7.874mil) (IsVia)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=7.874mil) (Max=393.701mil) (IsVia or (IsPad and OnMultiLayer and PadIsPlated))
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=19.685mil) (Max=393.701mil) (IsPad and not PadIsPlated and OnMultiLayer)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=3.937mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=1.968mil) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (not InAnyComponent)
+Rule Violations :0
+
+Processing Rule : Board Clearance Constraint (Gap=0mil) (OnCopper)
+Rule Violations :0
+
+Processing Rule : Room BGA (Bounding Region = (4699.331mil, 3649.331mil, 5036.26mil, 3986.26mil) (InComponent('U4'))
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+
+Violations Detected : 0
+Waived Violations : 0
+Time Elapsed        : 00:00:02

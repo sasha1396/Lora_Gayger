@@ -1,0 +1,11 @@
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Project [ATSAMR34 v.1.1.PrjPcb]
+   Generated File[Bill of Materials-ATSAMR34 v.1.1.xls]
+   Generated File[Bill of Materials-ATSAMR34 v.1.1.xls]
+
+
+Files Generated   : 2
+Documents Printed : 0
+
+Finished Output Generation At 17:49:03 On 21.12.2019
